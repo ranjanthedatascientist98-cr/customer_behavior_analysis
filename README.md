@@ -304,6 +304,7 @@ Birthday Rewards
 Early Access
 
 📁 Repository Structure
+
 Customer-Behavior-Analysis/
 │
 ├── Dataset/
@@ -325,6 +326,8 @@ Customer-Behavior-Analysis/
 ├── Dashboard_Screenshots/
 │
 └── README.md
+
+
 🎓 Skills Demonstrated
 Data Analytics
 Data Cleaning
